@@ -4,6 +4,7 @@ def prime?(num)
     false
   else
     (2..n/2).none? do |x|
+    end
   end
 end
 
